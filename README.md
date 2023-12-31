@@ -51,7 +51,7 @@ struct ContentView: View {
 
 ## Customization
 
-- **Text Array:** Modify the array of strings in `stringArray` to display the text you want.
+- **Text Array:** Modify the array of strings in `stringArray.swift` to display the text you want.
 - **Typing Speed:** Adjust the typing speed by changing the delay parameters in the ViewModel methods.
 - **Font:** Within your body add a typewriter-esque font style such as monospaced.
 
