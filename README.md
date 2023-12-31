@@ -13,10 +13,6 @@ A Swift Typewriter Effect that incorporates appending and deletion of text to di
 
 1. **Clone the repository:**
 
-```bash
-git clone [repository-url]
-```
-
 2. **Navigate to your project directory and add the files:**
 
 ```bash
